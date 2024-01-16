@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Emerging engineer with a strong foundation in embedded systems and a passion for innovation in technology",
   summary:
     "An aspiring engineer with a background in embedded systems and international experience. Currently enhancing skills in international management and engineering, with internships in hardware engineering and business development. Fluent in multiple languages and experienced in a diverse range of programming languages and tools.",
-  avatarUrl: "[Your avatar URL here]",
+  avatarUrl: "github.com/bastiankrohg.png",
   personalWebsiteUrl: "[Your personal website URL here]",
   contact: {
     email: "baskrohg@gmail.com",
@@ -36,18 +36,13 @@ export const RESUME_DATA = {
     social: [
       {
         name: "GitHub",
-        url: "[Your GitHub URL here]",
+        url: "github.com/bastiankrohg",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/bastiankrohg/",
         icon: LinkedInIcon,
-      },
-      {
-        name: "X",
-        url: "[Your additional social media or personal URL here]",
-        icon: XIcon,
       },
     ],
   },
