@@ -129,7 +129,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Electric Scooter",
-      description: "Electronics and Control engineering project. Designed and implemented the Feedback control torque mechanism for the electric motor
+      description: "Electronics and Control engineering project. Designed and implemented the Feedback control torque mechanism for the electric motor."
     },
     {
       title: "ML projects",
