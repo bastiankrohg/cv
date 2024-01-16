@@ -130,6 +130,12 @@ export const RESUME_DATA = {
     },
     {
       title: "Electric Scooter",
+      techStack: [
+        "Digital control laws",
+        "Power electronics",
+        "Power converters",
+        "STM32",
+      ],
       description: "Electronics and Control engineering project. Designed and implemented the Feedback control torque mechanism for the electric motor.",
     },
     {
