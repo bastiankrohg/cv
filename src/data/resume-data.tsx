@@ -140,7 +140,7 @@ export const RESUME_DATA = {
     },
     {
       title: "ML projects",
-      techStack: "Python",
+      techStack: ["Python"],
       description: "Lab work, implementing neural networks and learning trees in Python."
     },
     // Add projects from your CV in the provided format
