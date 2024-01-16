@@ -70,12 +70,6 @@ export const RESUME_DATA = {
       start: "2021",
       end: "2021",
     },
-    {
-      school: "Asker Upper Secondary School",
-      degree: "Scientific Orientation",
-      start: "2015",
-      end: "2018",
-    },
   ],
   work: [
     {
