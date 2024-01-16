@@ -118,7 +118,7 @@ export const RESUME_DATA = {
         "Peripherals",
         "Interrupts",
       ],
-      description: "Group project to code diverse drivers and functions for peripherals and control it from the STM32 chipset."
+      description: "Group project to code diverse drivers and functions for peripherals and control it from the STM32 chipset.",
     }
     {
       title: "FPGA Ethernet controller",
