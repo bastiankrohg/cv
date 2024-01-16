@@ -119,23 +119,23 @@ export const RESUME_DATA = {
         "Interrupts",
       ],
       description: "Group project to code diverse drivers and functions for peripherals and control it from the STM32 chipset.",
-    }
+    },
     {
       title: "FPGA Ethernet controller",
       techStack: [
         "VHDL",
         "Ethernet protocol",
       ],
-    }
+    },
     {
       title: "Electric Scooter",
       description: "Electronics and Control engineering project. Designed and implemented the Feedback control torque mechanism for the electric motor
-    }
+    },
     {
       title: "ML projects",
       techStack: "Python",
       description: "Lab work, implementing neural networks and learning trees in Python."
-    }
+    },
     // Add projects from your CV in the provided format
   ],
 } as const;
