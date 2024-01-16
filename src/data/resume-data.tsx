@@ -92,22 +92,50 @@ export const RESUME_DATA = {
     // Other work experiences can be similarly formatted
   ],
   skills: [
-    "Norwegian",
-    "English",
-    "French",
-    "Italian",
-    "MS Office",
     "Python",
     "C++",
     "C",
     "Java",
-    "FPGA",
+    "Javascript",
+    "VHDL",
     "LabVIEW",
     "Shell",
+    "Ada",
     "Assembly",
+    "STM32",
+    "ESP8266",
+    "OpenAI API",
     // Add other skills from your CV
   ],
   projects: [
+    {
+      title: "Semi-autonomous Sailboat model",
+      techStack: [
+        "STM32",
+        "Automatic rigging",
+        "Remote controlled heading",
+        "Anti-roll mechanism",
+        "Peripherals",
+        "Interrupts",
+      ],
+      description: "Group project to code diverse drivers and functions for peripherals and control it from the STM32 chipset."
+    }
+    {
+      title: "FPGA Ethernet controller",
+      techStack: [
+        "VHDL",
+        "Ethernet protocol",
+      ],
+    }
+    {
+      title: "Electric Scooter",
+      description: "Electronics and Control engineering project. Designed and implemented the Feedback control torque mechanism for the electric motor
+    }
+    {
+      title: "ML projects",
+      techStack: "Python",
+      description: "Lab work, implementing neural networks and learning trees in Python."
+    }
     // Add projects from your CV in the provided format
   ],
 } as const;
