@@ -63,6 +63,7 @@ export const RESUME_DATA = {
     },
     {
       school: "Seoul National University",
+      link: "https://en.snu.ac.kr/index.html",
       degree: "Exchange student in Electrical and Computer Engineering",
       start: "2021",
       end: "2021",
