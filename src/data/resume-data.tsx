@@ -104,7 +104,7 @@ export const RESUME_DATA = {
     company: "AS Insignia",
     link: "[https://insignia.no/]",
     badges: ["Internship"],
-    title: "Intern",
+    title: "Intern Software Technician and Mechanic",
     logo: "[AS Insignia Logo]",
     start: "Jun 2020",
     end: "Aug 2020",
