@@ -76,7 +76,7 @@ export const RESUME_DATA = {
       start: "Sep 2023",
       end: "present",
       description:
-        "Engaged in international business development in Silicon Valley at Nordic Innovation House.",
+        "International business development in Silicon Valley at Nordic Innovation House. Helping Norwegian and Nordic startups and scaleups find competitive advantage and unlock growth.",
     },
     {
     company: "Thales Norway AS",
@@ -126,6 +126,10 @@ export const RESUME_DATA = {
     "Ada",
     "Assembly",
     "Docker",
+    "Norwegian",
+    "English",
+    "French",
+    "Italian",
     // Add other skills from your CV
   ],
   projects: [
