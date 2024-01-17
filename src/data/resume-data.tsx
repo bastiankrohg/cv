@@ -78,6 +78,51 @@ export const RESUME_DATA = {
       description:
         "Engaged in international business development in Silicon Valley at Nordic Innovation House.",
     },
+    {
+    company: "Thales Norway AS",
+    link: "[https://www.thalesgroup.com/en/countries/europe/thales-norway]",
+    badges: ["Internship"],
+    title: "Intern Hardware Engineering Department",
+    logo: "[Thales Norway AS Logo]",
+    start: "Jun 2023",
+    end: "Aug 2023",
+    description:
+      "Internship in the Hardware Engineering Department focusing on Automation and Test Methods.",
+    },
+    {
+    company: "Thales Norway AS",
+    link: "[https://www.thalesgroup.com/en/countries/europe/thales-norway]",
+    badges: ["Internship"],
+    title: "Intern Software Engineering",
+    logo: "[Thales Norway AS Logo]",
+    start: "Jun 2022",
+    end: "Aug 2022",
+    description:
+      "Internship involving porting an existing QT VoIP client from Linux/Windows to support the mobile platform Android.",
+    },
+    {
+    company: "AS Insignia",
+    link: "[https://insignia.no/]",
+    badges: ["Internship"],
+    title: "Intern",
+    logo: "[AS Insignia Logo]",
+    start: "Jun 2020",
+    end: "Aug 2020",
+    description:
+      "Performed software updates and troubleshooting on EV model Jaguar I-Pace. Assisted in mechanical work, storage reorganization, and management. Served as a French-Norwegian translator and interpreter.",
+    },
+    {
+    company: "Norwegian Armed Forces - Norwegian Coast Guard",
+    link: "[https://www.forsvaret.no/om-forsvaret/organisasjon/sjoforsvaret/kystvakten]",
+    badges: ["Military Service"],
+    title: "Operations Assistant",
+    logo: "[Norwegian Armed Forces Logo]",
+    start: "Sept 2018",
+    end: "Aug 2019",
+    description:
+      "Seaman second class on board NOCGV 'Nordkapp' in the Operations department, assisting in the organization, planning, and execution of the vessel’s operations.",
+    },
+    
     // Other work experiences can be similarly formatted
   ],
   skills: [
