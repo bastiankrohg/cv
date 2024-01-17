@@ -22,12 +22,12 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Bastian Krohg",
   initials: "BK",
-  location: "Toulouse, France",
-  locationLink: "https://www.google.com/maps/place/Toulouse",
+  location: "Oslo, Norway",
+  locationLink: "https://www.google.com/maps/place/Oslo",
   about:
-    "Emerging engineer with a strong foundation in embedded systems and a passion for innovation in technology",
+    "Emerging engineer with a strong foundation in embedded systems and a passion for innovation and impact in technology",
   summary:
-    "An aspiring engineer with a background in embedded systems and international experience. Currently enhancing skills in international management and engineering, with internships in hardware engineering and business development. Fluent in multiple languages and experienced in a diverse range of programming languages and tools.",
+    "Aspiring embedded systems engineer with an international background. Currently finishing up my dual master's degree at INSA de Toulouse and Toulouse School of Management, graduating summer 2025. Fluent in multiple languages and experience from a diverse range of programming languages and technologies.",
   avatarUrl: "https://github.com/bastiankrohg.png",
   personalWebsiteUrl: "[Your personal website URL here]",
   contact: {
