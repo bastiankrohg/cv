@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Oslo, Norway",
   locationLink: "https://www.google.com/maps/place/Oslo",
   about:
-    "Emerging engineer with a strong foundation in embedded systems and a passion for innovation and impact in technology",
+    "Emerging engineer with a strong foundation in embedded systems and a passion for innovation",
   summary:
-    "Aspiring embedded systems engineer with an international background. Currently finishing up my dual master's degree at INSA de Toulouse and Toulouse School of Management, graduating summer 2025. Fluent in multiple languages and experience from a diverse range of programming languages and technologies.",
+    "Aspiring embedded systems engineer with an international background. Looking for internship opportunities summer 2024.",
   avatarUrl: "https://github.com/bastiankrohg.png",
   personalWebsiteUrl: "[Your personal website URL here]",
   contact: {
