@@ -145,7 +145,7 @@ export default function Page() {
               <Card key={education.school}>
                 <CardHeader>
                   <div className="flex items-center justify-between gap-x-2 text-base">
-                    <h3 className="font-semibold leading-none">
+                    <h3 className="hover:underline" href={education.link}>
                       {education.school}
                     </h3>
                     <div className="text-sm tabular-nums text-gray-500">
