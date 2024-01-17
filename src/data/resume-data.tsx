@@ -112,7 +112,7 @@ export const RESUME_DATA = {
       "Performed software updates and troubleshooting on EV model Jaguar I-Pace. Assisted in mechanical work, storage reorganization, and management. Served as a French-Norwegian translator and interpreter.",
     },
     {
-    company: "Norwegian Armed Forces - Norwegian Coast Guard",
+    company: "Norwegian Armed Forces",
     link: "[https://www.forsvaret.no/om-forsvaret/organisasjon/sjoforsvaret/kystvakten]",
     badges: ["Military Service"],
     title: "Operations Assistant",
