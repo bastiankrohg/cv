@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Oslo, Norway",
   locationLink: "https://www.google.com/maps/place/Oslo",
   about:
-    "Emerging engineer with a strong foundation in embedded systems and a passion for innovation",
+    "4th year engineering student with a strong foundation in embedded systems and a passion for technology",
   summary:
     "Aspiring embedded systems engineer with an international background. Looking for internship opportunities summer 2024.",
   avatarUrl: "https://github.com/bastiankrohg.png",
