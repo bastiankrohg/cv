@@ -49,14 +49,12 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Toulouse School of Management",
-      link: "https://tsm-education.fr/en",
       degree: "Master’s degree in International Management",
       start: "2022",
       end: "2025",
     },
     {
       school: "INSA de Toulouse",
-      link: "https://www.insa-toulouse.fr/en/",
       degree: "Master’s degree in Embedded Systems Engineering",
       start: "2019",
       end: "2025",
