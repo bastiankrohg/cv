@@ -125,9 +125,7 @@ export const RESUME_DATA = {
     "Shell",
     "Ada",
     "Assembly",
-    "STM32",
-    "ESP8266",
-    "OpenAI API",
+    "Docker",
     // Add other skills from your CV
   ],
   projects: [
