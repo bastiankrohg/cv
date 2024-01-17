@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       badges: ["Internship"],
       title: "Intern International Business Development",
       logo: "[Innovation Norway Logo]",
-      start: "2023",
+      start: "Sep 2023",
       end: "present",
       description:
         "Engaged in international business development in Silicon Valley at Nordic Innovation House.",
@@ -85,7 +85,7 @@ export const RESUME_DATA = {
     title: "Intern Hardware Engineering Department",
     logo: "[Thales Norway AS Logo]",
     start: "Jun 2023",
-    end: "Aug 2023",
+    end: "Sep 2023",
     description:
       "Internship in the Hardware Engineering Department focusing on Automation and Test Methods.",
     },
