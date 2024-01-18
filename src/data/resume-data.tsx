@@ -101,6 +101,17 @@ export const RESUME_DATA = {
       "Internship involving porting an existing QT VoIP client from Linux/Windows to support the mobile platform Android.",
     },
     {
+      company: "AS Insignia",
+      link: "[https://insignia.no/]",
+      badges: ["Internship"],
+      title: "Intern Software Technician and Mechanic",
+      logo: "[AS Insignia Logo]",
+      start: "Jun 2020",
+      end: "Aug 2020",
+      description:
+        "Performed software updates and troubleshooting on EV model Jaguar I-Pace. Assisted in mechanical work, storage reorganization, and management. Served as a French-Norwegian translator and interpreter.",
+    },
+    {
     company: "Norwegian Armed Forces",
     link: "[https://www.forsvaret.no/om-forsvaret/organisasjon/sjoforsvaret/kystvakten]",
     badges: ["Military Service"],
