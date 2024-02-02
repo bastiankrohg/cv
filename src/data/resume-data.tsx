@@ -140,7 +140,6 @@ export const RESUME_DATA = {
     "Norwegian",
     "English",
     "French",
-    "Italian",
     // Add other skills from your CV
   ],
   projects: [
